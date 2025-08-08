@@ -1,3 +1,5 @@
+package Data_Types;
+
 public class datatype {
     public static void main(String[] args) {
         int number = 1;

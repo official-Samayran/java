@@ -1,8 +1,6 @@
-package operators;
-public class operators {
+package operators.arithmetic;
+public class arithmetic {
     public static void main(String[] args){
-
-        // + - * / %
         int a = 10, b = 5;
         
         System.out.println("A = 10 | B = 5");
@@ -11,8 +9,5 @@ public class operators {
         System.out.println("A * B = " + (a*b));
         System.out.println("A / B = " + (a/b));
         System.out.println("A % B = " + (a%b));
-        
-        
-
     }    
 }

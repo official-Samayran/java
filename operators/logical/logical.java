@@ -5,8 +5,8 @@ public class logical {
 
         boolean a = true, b = false;
 
-        System.out.println("A && B = " + (a&&b));
-        System.out.println("A || B = " + (a||b));
-        System.out.println("!A = " + (!a));
+        System.out.println("A && B = " + (a&&b)); //AND operator
+        System.out.println("A || B = " + (a||b)); //OR Operator
+        System.out.println("!A = " + (!a)); //NOT operator
         }
 }
